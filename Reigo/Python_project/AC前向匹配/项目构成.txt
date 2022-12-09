@@ -1,0 +1,15 @@
+#ac_raw
+原始ac树
+
+#ac_Tree_forMatch
+为match 而更改的ac树
+
+#match_ac(项目主文件)！！
+使用ac树的前向匹配
+
+#match_dfa
+最大前向匹配
+
+#record_log
+记录替换信息的日志
+
