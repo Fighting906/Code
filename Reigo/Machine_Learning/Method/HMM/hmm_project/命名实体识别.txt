@@ -1,0 +1,10 @@
+
+我们 在 哈尔滨 中招国联 科技 有限公司 北京 分公司 开会 讨论 问题
+<O> <O> <NS>  <NN>  <NM> <NO> <NS> <NO>  <O> <O> <O>
+
+
+
+<NS><NN><NM><NO><NS><NO> -> <NS><NN><NM><NO><NS><NO><NT>
+<NS><NN><NM><NO> -> <NS><NN><NM><NO><NT>
+<NN><NM><NO> -> <NN><NM><NO><NT>
+
